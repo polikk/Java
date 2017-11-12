@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bohdan.iml" filepath="$PROJECT_DIR$/.idea/modules/bohdan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bohdan_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bohdan_main.iml" group="bohdan" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bohdan_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bohdan_test.iml" group="bohdan" />
+    </modules>
+  </component>
+</project>
