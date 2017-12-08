@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testing.OrgJSONMappingTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-10-29T09:16:22" hostname="Simple-and-Nice" time="0.225">
-  <properties/>
-  <testcase name="convertFromJSON" classname="testing.OrgJSONMappingTest" time="0.116"/>
-  <testcase name="convertToJSON" classname="testing.OrgJSONMappingTest" time="0.021"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

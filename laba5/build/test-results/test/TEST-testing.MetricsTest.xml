@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testing.MetricsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-10-29T09:16:22" hostname="Simple-and-Nice" time="0.036">
-  <properties/>
-  <testcase name="printMethodName" classname="testing.MetricsTest" time="0.0"/>
-  <testcase name="gatherPerformance" classname="testing.MetricsTest" time="0.036"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
